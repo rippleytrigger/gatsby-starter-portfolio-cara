@@ -49,7 +49,9 @@ cd project-name
 
 ### 2. **Install dependencies.**
 
-If you use npm 7 or above use the `--legacy-peer-deps` flag. If you use npm 6 you can use `npm install`.
+# If you use npm 7 or above use the `--legacy-peer-deps` flag. If you use npm 6 you can use `npm install`.
+
+Use `npm install`.
 
 ```sh
 npm install --legacy-peer-deps
