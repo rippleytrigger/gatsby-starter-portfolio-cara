@@ -57,5 +57,12 @@ module.exports = {
         openAnalyzer: false,
       },
     },
+    {
+      resolve: `gatsby-plugin-sass`,
+      // See the theme's README for all available options
+      options: {},
+    },
+    `gatsby-plugin-theme-ui`,
+    
   ].filter(Boolean),
 }

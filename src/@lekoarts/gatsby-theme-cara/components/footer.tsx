@@ -18,7 +18,7 @@ const Footer = () => {
       >
         {isDark ? `Light` : `Dark`}
       </button>
-      Copyright &copy; {new Date().getFullYear()}. All rights reserved.
+      Copyright &copy; Rippleytrigger {new Date().getFullYear()}. All rights reserved.
       <br />
       <Flex
         sx={{

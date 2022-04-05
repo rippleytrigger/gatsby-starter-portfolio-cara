@@ -18,13 +18,16 @@
   "dependencies": {
     "@babel/core": "^7.17.8",
     "@lekoarts/gatsby-theme-cara": "^3.0.0",
+    "bootstrap-icons": "^1.8.1",
     "cors": "^2.8.5",
     "gatsby": "^4.4.0",
     "gatsby-plugin-gatsby-cloud": "^4.0.0",
     "gatsby-plugin-manifest": "^4.0.0",
+    "gatsby-plugin-sass": "^5.10.2",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.22",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "sass": "^1.49.9"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"

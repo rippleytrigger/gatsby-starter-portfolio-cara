@@ -6,6 +6,8 @@ import Projects from "../components/projects"
 import About from "../components/about"
 import Contact from "../components/contact"
 
+import "./rippleylegacy.scss";
+
 const Cara = () => (
   <Layout>
     <Parallax pages={5}>
