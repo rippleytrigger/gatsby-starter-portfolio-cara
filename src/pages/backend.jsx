@@ -10,7 +10,7 @@ import Seo from "@lekoarts/gatsby-theme-cara/src/components/seo"
 import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
 
-const NotFound = () => (
+const Backend = () => (
   <Layout>
     <Seo title="Backend Projects" />
     <Parallax pages={1}>
@@ -56,4 +56,4 @@ const NotFound = () => (
   </Layout>
 )
 
-export default NotFound
+export default Backend
